@@ -1,2 +1,2 @@
 # ChallengerRealmRelease
-Hosting for the ChallengerRealm Game
+Hosting for the ChallengerRealm Game.
